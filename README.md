@@ -1,5 +1,4 @@
-# CarSegPro
-# Car Segmentation Package
+# CarSegPro : Car Segmentation Pro
 
 ## Overview
 The CarSegPro package is developed to facilitate the removal of both internal and external backgrounds from car images. This package comprises two distinct models:
@@ -29,11 +28,11 @@ plot_image(res, figsize=(15, 15))
 
 ```
 Input image:
-![Car Image](https://raw.githubusercontent.com/nechba/SegmentCar/main/carbgremover/images/car1.jpg)
+![Car Image](https://raw.githubusercontent.com/NechbaMohammed/CarSegPro/main/carbgremover/images/car1.jpg)
 
 
 Output image:
-![Car Image](https://raw.githubusercontent.com/nechba/SegmentCar/main/carbgremover/images/rescar1.jpg)
+![Car Image](https://raw.githubusercontent.com/NechbaMohammed/CarSegPro/main/carbgremover/images/rescar2.jpg)
 For saving the image, use the following:
 ```bash
 import cv2
@@ -50,10 +49,10 @@ plot_image(res, figsize=(15, 15))
 ```
 
 Input image:
-![Car Image](https://raw.githubusercontent.com/nechba/SegmentCar/main/carbgremover/images/car2.jpg)
+![Car Image](https://raw.githubusercontent.com/NechbaMohammed/CarSegPro/main/carbgremover/images/car2.jpg)
 
 Output image:
-![Car Image](https://raw.githubusercontent.com/nechba/SegmentCar/main/carbgremover/images/rescar2.jpg)
+![Car Image](https://raw.githubusercontent.com/NechbaMohammed/CarSegPro/main/carbgremover/images/rescar2.jpg)
 
 For saving the image, use the following:
 ```bash
