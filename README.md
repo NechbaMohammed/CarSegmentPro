@@ -15,6 +15,13 @@ The CarSegPro package is developed to facilitate the removal of both internal an
 
 **Note:** This task involves innovation, where a dataset was collected, and a deep learning model was trained. The achieved accuracy is 75%, which is considered moderate. Keep in mind that sentiment analysis provided suboptimal results.
 
+## Installation
+To install the Carsegmentation package, execute the following command:
+
+```bash
+pip install CarSegPro
+```
+
 ## Usage
 ### External Model Usage
 To use the external model for removing the background external to cars, employ the following code:
