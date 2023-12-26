@@ -32,7 +32,7 @@ Input image:
 
 
 Output image:
-![Car Image](https://raw.githubusercontent.com/NechbaMohammed/CarSegPro/main/carbgremover/images/rescar2.jpg)
+![Car Image](https://raw.githubusercontent.com/NechbaMohammed/CarSegPro/main/carbgremover/images/rescar1.jpg)
 For saving the image, use the following:
 ```bash
 import cv2
@@ -49,9 +49,11 @@ plot_image(res, figsize=(15, 15))
 ```
 
 Input image:
+
 ![Car Image](https://raw.githubusercontent.com/NechbaMohammed/CarSegPro/main/carbgremover/images/car2.jpg)
 
 Output image:
+
 ![Car Image](https://raw.githubusercontent.com/NechbaMohammed/CarSegPro/main/carbgremover/images/rescar2.jpg)
 
 For saving the image, use the following:
