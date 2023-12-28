@@ -1,7 +1,7 @@
-# CarSegPro : Car Segmentation Pro
+# CarSegmentPro : Car Segmentation Pro
 
 ## Overview
-The CarSegPro package is developed to facilitate the removal of both internal and external backgrounds from car images. This package comprises two distinct models:
+The CarSegmentPro package is developed to facilitate the removal of both internal and external backgrounds from car images. This package comprises two distinct models:
 
 ### External Model:
 
